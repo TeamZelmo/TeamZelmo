@@ -1,67 +1,116 @@
-# 👋 Hello, I'm [Your Name]
+# HRITHIK ROHIN
+
+### Professional Dealer · Client Relations · Business Development
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Welcome%20to%20My%20Profile&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=header&text=Professional%20Profile&fontSize=42&fontAlignY=38&animation=fadeIn" width="100%" />
 </p>
 
 <p align="center">
-  <strong>💼 Professional Dealer &nbsp;|&nbsp; 🤝 Client Relations &nbsp;|&nbsp; 📈 6+ Years Experience</strong>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=667eea&style=flat-square" alt="Profile Views" />
+  <strong>6+ Years of Professional Experience</strong>
+  <br>
+  Client Management · Business Communication · Relationship Management
 </p>
 
 ---
 
-## 👨‍💼 Professional Introduction
+## Professional Summary
 
-I am a **professional dealer with 6+ years of experience**, focused on client dealing, business communication, requirement handling, market understanding, and professional relationship management.
+I am a **professional dealer with 6+ years of experience** in client dealing, business communication, requirement management, market understanding, and professional relationship building.
 
-My experience has taught me the importance of **clear communication, understanding client requirements, reliable coordination, and maintaining long-term professional relationships**.
+Throughout my experience, I have worked closely with clients to understand their requirements, coordinate business discussions, maintain clear communication, and support long-term professional relationships.
 
-I believe that good business is built not only through successful deals, but through **trust, transparency, consistency, and professional service**.
+My working philosophy is straightforward:
+
+> **Understand the requirement → Communicate clearly → Deliver professionally → Build lasting trust.**
 
 ---
 
-## 📌 At a Glance
+## Experience
+
+### 6+ Years in Professional Client & Business Dealing
+
+My experience covers the complete client relationship process — from understanding initial requirements to maintaining professional communication and long-term coordination.
+
+| Area                    | Experience   |
+| ----------------------- | ------------ |
+| Client Dealing          | 6+ Years     |
+| Business Relations      | 6+ Years     |
+| Client Communication    | Professional |
+| Requirement Handling    | Experienced  |
+| Market Understanding    | Experienced  |
+| Business Coordination   | Experienced  |
+| Relationship Management | Experienced  |
+
+---
+
+## Professional Workflow
+
+```mermaid id="7q2n8k"
+flowchart LR
+    A["CLIENT"] --> B["REQUIREMENT"]
+    B --> C["ANALYSIS"]
+    C --> D["COMMUNICATION"]
+    D --> E["COORDINATION"]
+    E --> F["SERVICE"]
+    F --> G["LONG-TERM RELATIONSHIP"]
+```
+
+This approach helps keep client requirements clear, communication organized, and business relationships professional.
+
+---
+
+## Core Areas
 
 <table>
 <tr>
-<td align="center" width="25%">
+<td width="50%">
 
-### 💼
+### Client Relations
 
-**6+ Years**
-
-Professional Experience
-
-</td>
-<td align="center" width="25%">
-
-### 🤝
-
-**Client Focused**
-
-Relationship Management
+* Client handling
+* Requirement understanding
+* Professional follow-ups
+* Relationship management
+* Long-term coordination
 
 </td>
-<td align="center" width="25%">
 
-### 💬
+<td width="50%">
 
-**2 Languages**
+### Business Communication
 
-English & Hindi
+* Client communication
+* Business discussions
+* Requirement clarification
+* English communication
+* Hindi communication
 
 </td>
-<td align="center" width="25%">
+</tr>
 
-### 📈
+<tr>
+<td>
 
-**Long Term**
+### Business Understanding
 
-Business Relationships
+* Market requirements
+* Client needs
+* Business coordination
+* Professional dealing
+* Requirement management
+
+</td>
+
+<td>
+
+### Professional Values
+
+* Trust
+* Transparency
+* Reliability
+* Clear communication
+* Consistent service
 
 </td>
 </tr>
@@ -69,72 +118,25 @@ Business Relationships
 
 ---
 
-## 🚀 What I Do
+## Professional Strengths
 
-```mermaid
-flowchart LR
-    A["👤 Client"] --> B["🎯 Requirement"]
-    B --> C["💬 Communication"]
-    C --> D["🤝 Business Dealing"]
-    D --> E["✅ Service"]
-    E --> F["⭐ Trust"]
-    F --> G["📈 Long-Term Relationship"]
-```
-
-My work revolves around understanding what the client needs, communicating clearly, coordinating professionally, and maintaining a reliable relationship.
-
----
-
-## 💼 Areas of Experience
-
-### 🤝 Client Relationship Management
-
-* Understanding client requirements
-* Maintaining professional communication
-* Managing client follow-ups
-* Building long-term relationships
-
-### 💬 Business Communication
-
-* Professional client communication
-* English & Hindi communication
-* Business discussions
-* Requirement clarification
-
-### 📊 Business & Market Understanding
-
-* Understanding market requirements
-* Client requirement analysis
-* Business coordination
-* Professional dealing
-
-### 🎯 Professional Service
-
-* Clear communication
-* Transparent discussions
-* Reliable coordination
-* Client-focused approach
-
----
-
-## 🧩 Professional Strengths
-
-```mermaid
+```mermaid id="j4z7yx"
 mindmap
-  root((Professional<br/>Experience))
-    🤝 Client Relations
+  root((Professional<br/>Profile))
+    Client Relations
       Client Handling
-      Follow-ups
+      Requirement Management
+      Follow-up
       Relationship Building
-    💬 Communication
+    Business
+      Market Understanding
+      Coordination
+      Professional Dealing
+    Communication
       English
       Hindi
       Business Discussion
-    📊 Business
-      Market Understanding
-      Requirement Handling
-      Coordination
-    ⭐ Professional Values
+    Values
       Trust
       Transparency
       Reliability
@@ -142,113 +144,72 @@ mindmap
 
 ---
 
-## 📈 Experience
+## Languages
 
-| Professional Area            |    Experience   |
-| :--------------------------- | :-------------: |
-| 💼 Dealer / Business Dealing |   **6+ Years**  |
-| 🤝 Client Handling           |   **6+ Years**  |
-| 💬 Client Communication      | **Experienced** |
-| 🎯 Requirement Handling      | **Experienced** |
-| 📊 Market Understanding      | **Experienced** |
-| 🔄 Business Coordination     | **Experienced** |
-| ⭐ Relationship Management    | **Experienced** |
+| Language    | Proficiency                |
+| :---------- | :------------------------- |
+| **Hindi**   | Fluent                     |
+| **English** | Professional Communication |
 
 ---
 
-## 🔄 My Professional Process
+## Professional Approach
 
-```text
-┌──────────────────────────┐
-│       👤 CLIENT          │
-│     Requirement          │
-└────────────┬─────────────┘
-             │
-             ▼
-┌──────────────────────────┐
-│      🎯 UNDERSTAND       │
-│   Identify the Need      │
-└────────────┬─────────────┘
-             │
-             ▼
-┌──────────────────────────┐
-│      💬 COMMUNICATE      │
-│    Clear Discussion      │
-└────────────┬─────────────┘
-             │
-             ▼
-┌──────────────────────────┐
-│       🤝 DEAL            │
-│ Professional Coordination│
-└────────────┬─────────────┘
-             │
-             ▼
-┌──────────────────────────┐
-│       ✅ DELIVER         │
-│     Reliable Service     │
-└────────────┬─────────────┘
-             │
-             ▼
-┌──────────────────────────┐
-│       ⭐ TRUST           │
-│  Long-Term Relationship  │
-└──────────────────────────┘
-```
+I focus on creating a professional experience at every stage of client interaction.
+
+**01 — Understand**
+Understand the client's requirement clearly.
+
+**02 — Communicate**
+Keep all discussions clear, direct, and professional.
+
+**03 — Coordinate**
+Manage communication and business coordination efficiently.
+
+**04 — Deliver**
+Focus on reliable and professional service.
+
+**05 — Build**
+Maintain relationships based on trust and long-term value.
 
 ---
 
-## 🌐 Languages
+## What I Value
 
-<p align="center">
+### Trust
 
-|    Language    |  Proficiency |
-| :------------: | :----------: |
-| 🇮🇳 **Hindi** |    Fluent    |
-| 🌎 **English** | Professional |
+Strong professional relationships start with trust and transparency.
 
-</p>
+### Communication
 
----
+Clear communication helps avoid misunderstandings and creates better business relationships.
 
-## 🎯 What Matters to Me
+### Reliability
 
-<table>
-<tr>
-<td>🤝 <b>Trust</b><br>Building dependable professional relationships.</td>
-<td>💬 <b>Communication</b><br>Keeping discussions clear and professional.</td>
-</tr>
-<tr>
-<td>✅ <b>Reliability</b><br>Maintaining consistent and dependable service.</td>
-<td>📈 <b>Growth</b><br>Building relationships that create long-term value.</td>
-</tr>
-</table>
+Consistent communication and dependable coordination are important parts of professional service.
+
+### Long-Term Relationships
+
+I focus on building relationships that can continue and grow beyond a single business transaction.
 
 ---
 
-## 💡 Professional Philosophy
-
-> **"Understand the requirement. Communicate clearly. Work professionally. Build lasting trust."**
-
-I believe every client interaction is an opportunity to create a positive professional experience and build a relationship based on **trust, transparency, and mutual value**.
-
----
-
-## 🤝 Let's Connect
+## Let's Connect
 
 I am open to **business discussions, professional collaborations, client requirements, and new opportunities**.
 
 <p align="center">
 
 <a href="mailto:[Your Email]">
-  <img src="https://img.shields.io/badge/Email-Contact%20Me-667eea?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/EMAIL-CONTACT-18181B?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-
+&nbsp;
 <a href="[Your LinkedIn]">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LINKEDIN-CONNECT-18181B?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-
+&nbsp;
 <a href="[Your Website]">
-  <img src="https://img.shields.io/badge/Website-Visit-333333?style=for-the-badge&logo=google-chrome&logoColor=white" />
+<img src="https://img.shields.io/badge/WEBSITE-VISIT-18181B?style=for-the-badge&logo=google-chrome&logoColor=white" />
 </a>
 
 </p>
@@ -256,11 +217,17 @@ I am open to **business discussions, professional collaborations, client require
 ---
 
 <p align="center">
-  <i>Thank you for visiting my profile.</i>
-  <br><br>
-  <strong>Trust • Communication • Professionalism • Growth</strong>
+
+**Thank you for visiting my profile.**
+
+<br>
+
+<sub>
+Professionalism · Trust · Communication · Long-Term Relationships
+</sub>
+
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:764ba2,100:667eea&height=120&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer" width="100%" />
 </p>
