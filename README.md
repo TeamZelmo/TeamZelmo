@@ -1,66 +1,69 @@
 # HRITHIK ROHIN
 
-### Professional Dealer · Client Relations · Business Development
+### Professional Dealer | Client Relations | Business Development
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=header&text=Professional%20Profile&fontSize=42&fontAlignY=38&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=170&section=header&text=Professional%20Profile&fontSize=40&fontAlignY=38&animation=fadeIn" width="100%" />
 </p>
 
 <p align="center">
-  <strong>6+ Years of Professional Experience</strong>
+  <b>6+ Years of Professional Experience</b>
   <br>
-  Client Management · Business Communication · Relationship Management
+  Client Dealing · Business Communication · Relationship Management
 </p>
 
 ---
 
-## Professional Summary
+## About Me
 
-I am a **professional dealer with 6+ years of experience** in client dealing, business communication, requirement management, market understanding, and professional relationship building.
+Hello, I'm **Hrithik Rohin**.
 
-Throughout my experience, I have worked closely with clients to understand their requirements, coordinate business discussions, maintain clear communication, and support long-term professional relationships.
+I have **6+ years of professional experience** in client dealing, business communication, requirement handling, and relationship management.
 
-My working philosophy is straightforward:
+Over the years, I have worked with different client requirements and business discussions. My focus has always been to understand the requirement properly, communicate clearly, coordinate everything professionally, and maintain a good working relationship.
 
-> **Understand the requirement → Communicate clearly → Deliver professionally → Build lasting trust.**
+For me, professional dealing is simple:
 
----
-
-## Experience
-
-### 6+ Years in Professional Client & Business Dealing
-
-My experience covers the complete client relationship process — from understanding initial requirements to maintaining professional communication and long-term coordination.
-
-| Area                    | Experience   |
-| ----------------------- | ------------ |
-| Client Dealing          | 6+ Years     |
-| Business Relations      | 6+ Years     |
-| Client Communication    | Professional |
-| Requirement Handling    | Experienced  |
-| Market Understanding    | Experienced  |
-| Business Coordination   | Experienced  |
-| Relationship Management | Experienced  |
+> **Understand the requirement → Communicate clearly → Do the work properly → Maintain the relationship.**
 
 ---
 
-## Professional Workflow
+## My Experience
 
-```mermaid id="7q2n8k"
+### 6+ Years of Client & Business Dealing
+
+My experience mainly involves working directly with clients and handling different stages of business communication.
+
+| Area                    | Experience  |
+| :---------------------- | :---------- |
+| Client Dealing          | 6+ Years    |
+| Business Communication  | 6+ Years    |
+| Client Relations        | 6+ Years    |
+| Requirement Handling    | Experienced |
+| Business Coordination   | Experienced |
+| Market Understanding    | Experienced |
+| Follow-ups              | Experienced |
+| Relationship Management | Experienced |
+
+---
+
+## How I Work
+
+```mermaid id="x7m3qa"
 flowchart LR
-    A["CLIENT"] --> B["REQUIREMENT"]
-    B --> C["ANALYSIS"]
-    C --> D["COMMUNICATION"]
-    D --> E["COORDINATION"]
-    E --> F["SERVICE"]
-    F --> G["LONG-TERM RELATIONSHIP"]
+    A["Client"] --> B["Requirement"]
+    B --> C["Understanding"]
+    C --> D["Communication"]
+    D --> E["Coordination"]
+    E --> F["Service"]
+    F --> G["Relationship"]
 ```
 
-This approach helps keep client requirements clear, communication organized, and business relationships professional.
+I prefer keeping things simple and clear. First I understand what the client needs, then I communicate properly, coordinate the work, and maintain the relationship.
 
 ---
 
-## Core Areas
+## What I Do
 
 <table>
 <tr>
@@ -68,22 +71,22 @@ This approach helps keep client requirements clear, communication organized, and
 
 ### Client Relations
 
-* Client handling
+* Client dealing
 * Requirement understanding
-* Professional follow-ups
+* Regular follow-ups
+* Client coordination
 * Relationship management
-* Long-term coordination
 
 </td>
 
 <td width="50%">
 
-### Business Communication
+### Communication
 
-* Client communication
 * Business discussions
 * Requirement clarification
-* English communication
+* Client communication
+* Professional English
 * Hindi communication
 
 </td>
@@ -92,25 +95,25 @@ This approach helps keep client requirements clear, communication organized, and
 <tr>
 <td>
 
-### Business Understanding
+### Business
 
-* Market requirements
-* Client needs
+* Market understanding
+* Client requirements
 * Business coordination
 * Professional dealing
-* Requirement management
+* Service coordination
 
 </td>
 
 <td>
 
-### Professional Values
+### Work Values
 
 * Trust
+* Clear communication
 * Transparency
 * Reliability
-* Clear communication
-* Consistent service
+* Professional behaviour
 
 </td>
 </tr>
@@ -118,98 +121,93 @@ This approach helps keep client requirements clear, communication organized, and
 
 ---
 
-## Professional Strengths
+## My Strengths
 
-```mermaid id="j4z7yx"
+```mermaid id="j2p8vn"
 mindmap
-  root((Professional<br/>Profile))
-    Client Relations
+  root((My Professional Profile))
+    Client Dealing
       Client Handling
-      Requirement Management
-      Follow-up
-      Relationship Building
+      Requirements
+      Follow-ups
+      Coordination
     Business
       Market Understanding
-      Coordination
+      Business Discussions
       Professional Dealing
     Communication
       English
       Hindi
-      Business Discussion
-    Values
+      Clear Communication
+    Relationships
       Trust
-      Transparency
       Reliability
+      Long-Term Relations
 ```
 
 ---
 
 ## Languages
 
-| Language    | Proficiency                |
+| Language    | Level                      |
 | :---------- | :------------------------- |
 | **Hindi**   | Fluent                     |
 | **English** | Professional Communication |
 
 ---
 
-## Professional Approach
+## My Approach
 
-I focus on creating a professional experience at every stage of client interaction.
+**01. Understand**
 
-**01 — Understand**
-Understand the client's requirement clearly.
+I first try to understand the client's actual requirement.
 
-**02 — Communicate**
-Keep all discussions clear, direct, and professional.
+**02. Communicate**
 
-**03 — Coordinate**
-Manage communication and business coordination efficiently.
+I keep communication simple, clear, and professional.
 
-**04 — Deliver**
-Focus on reliable and professional service.
+**03. Coordinate**
 
-**05 — Build**
-Maintain relationships based on trust and long-term value.
+I make sure the required communication and follow-ups are properly handled.
+
+**04. Deliver**
+
+I focus on providing reliable and professional service.
+
+**05. Maintain**
+
+I believe a good business relationship should continue even after the initial discussion or transaction.
 
 ---
 
-## What I Value
+## What Matters to Me
 
 ### Trust
 
-Strong professional relationships start with trust and transparency.
+I believe trust is important in any professional relationship.
 
-### Communication
+### Clear Communication
 
-Clear communication helps avoid misunderstandings and creates better business relationships.
+Good communication makes business discussions easier and avoids unnecessary confusion.
 
 ### Reliability
 
-Consistent communication and dependable coordination are important parts of professional service.
+Being available, responding properly, and keeping communication consistent are important to me.
 
 ### Long-Term Relationships
 
-I focus on building relationships that can continue and grow beyond a single business transaction.
+I prefer building professional relationships that can continue for the long term.
 
 ---
 
 ## Let's Connect
 
-I am open to **business discussions, professional collaborations, client requirements, and new opportunities**.
+If you would like to discuss **business, client requirements, professional collaboration, or new opportunities**, feel free to contact me.
 
 <p align="center">
 
-<a href="mailto:[Your Email]">
-<img src="https://img.shields.io/badge/EMAIL-CONTACT-18181B?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-&nbsp;
-<a href="[Your LinkedIn]">
-<img src="https://img.shields.io/badge/LINKEDIN-CONNECT-18181B?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-&nbsp;
-<a href="[Your Website]">
-<img src="https://img.shields.io/badge/WEBSITE-VISIT-18181B?style=for-the-badge&logo=google-chrome&logoColor=white" />
+<a href="mailto:zelmoapex@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-zelmoapex%40gmail.com-18181B?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 </p>
@@ -223,11 +221,11 @@ I am open to **business discussions, professional collaborations, client require
 <br>
 
 <sub>
-Professionalism · Trust · Communication · Long-Term Relationships
+Professionalism · Trust · Communication · Reliability
 </sub>
 
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer" width="100%" />
 </p>
